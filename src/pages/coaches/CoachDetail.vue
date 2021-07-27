@@ -21,6 +21,13 @@
         <p>{{ description }}</p>
       </base-card>
     </section>
+    <section>
+        <div class="controls">
+          <center>
+            <base-button link="true" to="/coaches">Return</base-button>
+          </center>
+        </div>
+    </section>
   </div>
 </template>
 
