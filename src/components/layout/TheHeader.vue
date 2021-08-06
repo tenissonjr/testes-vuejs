@@ -2,7 +2,7 @@
   <header>
     <nav>
       <h1>
-        <router-link to="/">Find a Coach</router-link>
+        <router-link to="/">Find a Coach 1.0.1</router-link>
       </h1>
       <ul>
         <li>
