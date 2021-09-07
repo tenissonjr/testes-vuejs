@@ -1,8 +1,8 @@
 import { createStore } from 'vuex';
 
-import coachesModule from './modules/coaches/index.js';
-import requestsModule from './modules/requests/index.js';
-import authModule from './modules/auth/index.js';
+import coachesModule  from '../../coaches/store/index.js'
+import requestsModule from '../../requests/store/index.js';
+import authModule     from '../../auth/store/index.js';
 
 const store = createStore({
   modules: {

@@ -34,8 +34,8 @@
 </template>
 
 <script>
-import CoachItem from '../../components/coaches/CoachItem.vue';
-import CoachFilter from '../../components/coaches/CoachFilter.vue';
+import CoachItem from '../components/CoachItem.vue'
+import CoachFilter from '../components/CoachFilter.vue';
 
 export default {
   components: {
